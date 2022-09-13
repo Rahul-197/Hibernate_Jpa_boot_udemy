@@ -20,6 +20,7 @@ public class HibernateCourseWithJpaApplication implements CommandLineRunner {
 	public static void main(String[] args) {
 		SpringApplication.run(HibernateCourseWithJpaApplication.class, args);
 		System.out.println("----------------start Hibernate with jpa------------- ");
+		System.out.println("----------------***start Hibernate with jpa***------------- ");
 	}
 
 	@Override
